@@ -1,0 +1,3 @@
+find the admin hash and the renamed file downloaded
+
+flag format : Securinets{Hash_FileName}
